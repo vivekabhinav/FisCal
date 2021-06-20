@@ -1,13 +1,13 @@
-# Financely
+# FisCal
 
-<center><img src="assets/logo.png" alt="logo" height="200px" width="270px"></center>
-Financely is an AI based financial adviser and user portfolio management system. The aim of this project is to help people become financially independent by demystifying trading and the stock market and making them more accessible to people without a formal education in the field.
+
+FisCal is an AI based financial adviser and user portfolio management system. The aim of this project is to help people become financially independent by demystifying trading and the stock market and making them more accessible to people without a formal education in the field.
 
 # Setting up and running the project
 
 1. Fork the repo and clone it
 ```
-git clone https://github.com/EnigmAI/Financely.git
+git clone https://github.com/FisCal.git
 cd financely
 ```
 2. Activate your conda or virtual Python environment
@@ -15,7 +15,7 @@ cd financely
 ```
 pip install -r requirements.txt
 ```
-4. Download our sentiment analysis model from <a href='https://drive.google.com/file/d/1vGN0481ovU6mQZkgKO2lLAGMKnXVbufi/view?usp=sharing'>here</a> and place it inside the directory `Financely/basic_app/`
+4. Download our sentiment analysis model from <a href='https://drive.google.com/file/d/1oNkjFD3YrjJkcE65cxLXX3CsPHkxurKR/view?usp=sharing'>here</a> and place it inside the directory `FisCal/basic_app/`
 
 5. After the above setup, run the following commands
 ```
